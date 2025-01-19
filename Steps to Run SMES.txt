@@ -1,0 +1,29 @@
+Steps to Run SMES Software
+
+1. **Download and Install VS Code**
+   - Visit the [Visual Studio Code website](https://code.visualstudio.com/) and download the appropriate version for your operating system.
+   - Follow the installation instructions to complete the setup.
+
+2. **Open VS Code and Select Folder**
+   - Launch VS Code.
+   - Click on `File` in the menu bar and select `Open Folder...`.
+   - Navigate to and select the folder provided on the CD or flash memory.
+
+3. **Open and Run app.py**
+   - In the opened folder, locate the `app.py` file.
+   - Click on `app.py` to open it.
+   - Run the file by clicking on the play button or by using the terminal.
+
+4. **Select Python Interpreter**
+   - If prompted, select the Python 3.7 interpreter. You can do this by clicking on the interpreter version in the bottom-left corner of VS Code and selecting `Python 3.7` from the list.
+
+5. **Access the Software**
+   - Open any web browser.
+   - Enter the following URL: `http://127.0.0.1:5000/`.
+
+6. **Log In**
+   - Use the following credentials to log in:
+     - Username: `a`, Password: `a`
+     - Username: `b`, Password: `b`
+
+ SMES Software should now be up and running, ready for use.
